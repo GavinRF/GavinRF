@@ -1,5 +1,6 @@
 ### Hi there 👋
 I like to write code, for fun!
+<p>This is a paragraph tag</p>
 <!--
 **GavinRF/GavinRF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
